@@ -37,4 +37,3 @@ This is a simple browser game inspired by the classic **Simon memory game**. Whe
 - **CSS3** – Styling  
 - **JavaScript (jQuery)** – Logic & Interactivity  
 - **Google Fonts** – Retro game font
-- 
